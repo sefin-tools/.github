@@ -6,7 +6,7 @@ Każdy projekt będzie posiadał osobne repozytorium z kodem źródłowym i inst
 ## Planowane narzędzia
 
 ### Programowanie i dane
-- `generatorcron.pl`
+- `generatorcron.pl` (w trakcie prac)
 - `formatujjson.pl`
 - `dekoderjwt.pl`
 - `wygenerujdane.pl`
