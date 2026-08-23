@@ -21,5 +21,4 @@ Każdy projekt będzie posiadał osobne repozytorium z kodem źródłowym i inst
 - `dekoderjwt.pl`
 
 ## Kontakt
-Masz pomysł na nowe narzędzie lub znalazłeś błąd?  
-Napisz na: `contact@sefinek.net`
+Masz pomysł na nowe narzędzie lub znalazłeś błąd? Napisz na contact@sefinek.net.
