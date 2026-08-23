@@ -24,10 +24,13 @@ Pull requesty i inne formy wkładu są mile widziane!
 ### Tekst i listy
 - `analizujtekst.pl`
 - `porzadkujliste.pl`
-- `testpisania.pl`
 - `znajdzroznice.pl`
 
-### Generatory i bezpieczeństwo
+### Testy i quizy
+- `testpisania.pl`
+- `testrefleksu.pl`
+
+### Generatory
 - `generatoretykiet.pl`
 - `generatorplanow.pl`
 - `generatorsilnychhasel.pl`
