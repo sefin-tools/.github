@@ -1,6 +1,6 @@
 ![Sefin Tools - przydatne narzędzia open source](../assets/sefin-tools-banner.png)
 
-Sefin Tools to otwartoźródłowe, proste i praktyczne narzędzia internetowe.  
+Sefin Tools to otwartoźródłowe, proste i praktyczne narzędzia internetowe.
 Każdy projekt będzie posiadał osobne repozytorium z kodem źródłowym i instrukcją uruchomienia.
 
 ## Planowane narzędzia
