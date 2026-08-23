@@ -6,7 +6,6 @@ Każdy projekt będzie posiadał osobne repozytorium z kodem źródłowym i inst
 ## Planowane narzędzia
 - `usunmetadane.pl`
 - `znajdzroznice.pl`
-- `asystentfirmy.pl`
 - `skompresujzdjecie.pl`
 - `analizadomeny.pl`
 - `wygenerujkod.pl`
