@@ -4,20 +4,33 @@ Sefin Tools to otwartoźródłowe, proste i praktyczne narzędzia internetowe.
 Każdy projekt będzie posiadał osobne repozytorium z kodem źródłowym i instrukcją uruchomienia.
 
 ## Planowane narzędzia
-- `usunmetadane.pl`
+
+### Programowanie i dane
+- `generatorcron.pl`
+- `formatujjson.pl`
+- `dekoderjwt.pl`
+- `wygenerujdane.pl`
+
+### Tekst i listy
+- `analizujtekst.pl`
 - `znajdzroznice.pl`
+- `porzadkujliste.pl`
+
+### Pliki i zdjęcia
+- `analizujplik.pl`
+- `usunmetadane.pl`
 - `skompresujzdjecie.pl`
+
+### Domeny i strony internetowe
 - `analizadomeny.pl`
+- `sprawdzprzekierowanie.pl`
+
+### Generatory i bezpieczeństwo
+- `generatorsilnychhasel.pl`
 - `wygenerujkod.pl`
 - `generatoretykiet.pl`
-- `losujonline.pl`
 - `generatorplanow.pl`
-- `formatujjson.pl`
-- `porzadkujliste.pl`
-- `analizujtekst.pl`
-- `sprawdzprzekierowanie.pl`
-- `generatorcron.pl`
-- `dekoderjwt.pl`
+- `losujonline.pl`
 
 ## Kontakt
-Masz pomysł na nowe narzędzie lub znalazłeś błąd? Napisz na contact@sefinek.net.
+Masz pomysł na nowe narzędzie lub znalazłeś błąd? Napisz na [contact@sefinek.net](mailto:contact@sefinek.net).
